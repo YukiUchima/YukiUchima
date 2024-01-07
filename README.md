@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yuki! <br/><a href="https://github.com/YukiUchima">Programmer</a></h1>
+<h1>Hi, I'm Yuki! <br/><a href="https://github.com/YukiUchima">Programmer | Engineer</a></h1>
 
 
 <h2>🔰 Home Labs</h2>
