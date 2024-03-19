@@ -1,7 +1,7 @@
 <h1>Hi, I'm Yuki! <br/><a href="https://github.com/YukiUchima">Programmer | Engineer</a></h1>
 
 
-<h2>🔰 Home Labs</h2>
+<h2>🔬 Home Labs</h2>
 
 - ![Azure Cloud and Security Labs](https://github.com/YukiUchima/Azure-SOC)
 
