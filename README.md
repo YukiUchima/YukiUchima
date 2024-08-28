@@ -2,7 +2,7 @@
 <br>
 Yuki | <a href="https://github.com/YukiUchima">Programmer | Engineer</a></h1>
 
-🌱 I’m currently learning Full Stack Development powered by TekSystems!
+🌱 I’ve graduated with a certificate in Full Stack Development powered by TekSystems!
 
 <br>
 
