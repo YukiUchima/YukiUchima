@@ -1,8 +1,8 @@
 <h1>Welcome To My Page 
 <br>
-Yuki | <a href="https://github.com/YukiUchima">Programmer | Engineer</a></h1>
+Yuki | <a href="https://github.com/YukiUchima">Programmer</a> | Mechanical Engineer</h1>
 
-🌱 I’ve graduated with a certificate in Full Stack Development powered by TekSystems!
+🌱 I’m a Full-Time Developer, learning Full Stack Development using C# and React!
 
 <br>
 
@@ -14,19 +14,26 @@ Yuki | <a href="https://github.com/YukiUchima">Programmer | Engineer</a></h1>
 
 <h2>👨‍💻 Software Development Projects</h2>
 
-- ![Java Full Stack CRUD](https://github.com/YukiUchima/javaSpringMySQL-CRUD)
+- [Practice Projects](https://github.com/YukiUchima/TheCSharpAcademy)
+  - [C# - Math Game](https://github.com/YukiUchima/TheCSharpAcademy/tree/main/MathGame.YukiUchima)
+  - [C# - Library Management](https://github.com/YukiUchima/TheCSharpAcademy/tree/main/OOP.LibraryManagementSystem)
 
-  - Spring Boot
-  - React: Hooks, Axios
-  - Web Services (REST API)
-  - MySQL
-  - Test using PostMan
+- [E-Commerce Full Stack Project (In Progress)](https://github.com/YukiUchima/CSharpFullStack)
+
+  - .NET / C#
+  - ASPNETCore
+  - Entity Framework
+  - React with Redux
+  - REST API
+  - MySQL/SQL
+  - TypeScript
 
 <br>
 
 <h2> Certifications:</h2>
 
-- ![Google Cybersecurity](https://coursera.org/share/ab23deb3b91264c200def22dd90b7726)
+- [Google Cybersecurity](https://www.coursera.org/account/accomplishments/specialization/SVCPU4DUM7C2)
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/SVCPU4DUM7C2)
 
 <h2> 🤳 Connect with me:</h2>
 
